@@ -1,0 +1,92 @@
+body{
+    font-family: arial;
+    font-size:14px;
+    color:#000;
+    width:100%;
+    height:100%;
+    overflow:auto;
+}
+a{font-size:16px;color:white;font-weight:bold;text-decoration: none;}
+a:hover{color: yellow;text-decoration:underline;}
+.mainBlock{
+    width:900px;
+    height: 1000px;
+    background:lightgray;
+    box-shadow:0 0 5px #000;
+    margin:auto;
+    margin-top:10px;
+}
+.header{
+    position:relative;
+    width:100%;
+    height:150px;
+    border-bottom:1px solid #000;
+}
+.leftMenu{
+    width:200px;
+    height:calc(100% - 151px);
+    float:left;
+    border-right:1px solid #000;
+}
+.rightContant{
+    width:690px;
+    height:auto;
+    float:right;
+}
+.leftImg{
+    background-image:url('img/Logo_PG.png');
+    width:121px;
+    height:80px;
+    background-size:cover;
+    float: left;
+}
+.rightImg{
+    background-image: url('img/Logo_WETI.png');
+    width:80px;
+    height:80px;
+    background-size:cover;
+    float:right;
+}
+.headerText{
+    width:690px;
+    float:left;
+    text-align: center;
+}
+.myH{
+    font-size:18px;
+    color:blue;
+}
+figcaption{
+    color: red;
+    font-size:12px;
+    text-align:center;
+}
+.green{
+    color:green;
+    text-decoration:underline;
+    font-size:16px;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+td{
+    text-align:center;
+    color:red;
+    border:1px solid black;
+}
+.tdLeft{
+    background:yellow;
+    font-weight:bold;
+}
+th{
+    background:green;
+    font-weight:bold;
+}
+.greenTr{
+    background:green;
+}
+.rightButton{
+    border:1px solid black;
+    font-weight:bold;
+    color:black;
+    background:green;
+}
