@@ -39,7 +39,7 @@ Następnie zmień styl akapitów h2 i h3 (zastosuj atrybut style np.
 #### Krok 0
 Załóż własny katalog na dysku D nazwany twoim imieniem i nazwiskiem. Zapisuj
 tam wszystkie pliki, na których będziesz pracować.
-##Krok 1 (2 pkt.):
+## Krok 1 (2 pkt.):
 Przeanalizuj dokument i zdefiniuj style poszczególnych akapitów. Zwróć uwagę, że
 niektóre akapity różnią się między sobą tylko niewielką ilością cech np. kolorem czy też
 wyróżnieniem poprzez pochylenie lub podkreślenie tekstu. W takim przypadku do opisu
